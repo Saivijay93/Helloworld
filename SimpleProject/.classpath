@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-oracle">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/async-http-client-1.7.9.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/jackson-databind-2.2.3.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/javax.servlet-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/supporting library/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/vijay/Downloads/JAVA/API Connector/ss2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
